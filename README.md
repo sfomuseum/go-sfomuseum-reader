@@ -2,6 +2,10 @@
 
 Common methods for reading SFO Museum (Who's On First) documents.
 
+## Important
+
+This package has been deprecated. You should just use [go-whosonfirst-reader](https://github.com/whosonfirst/go-whosonfirst-reader) v1.0.0 or higher instead.
+
 ## Examples
 
 _Note that error handling has been removed for the sake of brevity._
